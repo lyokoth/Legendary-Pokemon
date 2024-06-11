@@ -1,5 +1,9 @@
 ## What makes a Pokemon Legendary?
 
+## Introduction
+
+A data science project where I play the role of Professor Oak's researcher, I investigate the characteristics of legendary Pokémon to understand what makes them unique.
+
 
 ## Tech Stack
 
@@ -7,9 +11,7 @@
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
-## Introduction
 
-A data science project where I play the role of Professor Oak's researcher, I investigate the characteristics of  legendary Pokémon to understand what makes them unique.
 
 
 ## Main
