@@ -22,3 +22,5 @@ From browsing 800+ Pokémon, we can see that the stats are what makes a Pokémon
 
 Looking at the relationship between the height and weight of the Pokemon, I also added a conditional label that'll only print the Pokmeon's name if it's heavier than 600kg (Approx. 1322 lbs) or taller than 7.5m (24 ft).
 
+![](https://github.com/lyokoth/Legendary-Pokemon/blob/master/images/heightweight.png)
+
